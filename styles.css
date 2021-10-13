@@ -1,0 +1,11 @@
+header {
+    background-color: slategrey;
+    text-align: center;
+
+    padding: 3em;
+}
+
+.navbar {
+    background-color: slategrey; 
+    text-align: center;
+}
