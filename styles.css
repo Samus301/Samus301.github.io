@@ -9,3 +9,30 @@ header {
     background-color: slategrey; 
     text-align: center;
 }
+
+body {
+    text-align: center;
+}
+
+.myprojects {
+    display: flex;
+    height: auto;
+}
+
+.finished {
+    background-color: greenyellow;
+    max-height: fit-content;
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+.inprogress {
+    background-color: yellow;
+    max-height: fit-content;
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+.projects {
+   
+}
